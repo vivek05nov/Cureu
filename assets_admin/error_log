@@ -1,0 +1,56 @@
+[16-Sep-2020 10:01:14 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/avinstar/cureu.in/system/database/drivers/mysqli/mysqli_result.php on line 229
+[16-Sep-2020 10:01:14 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/avinstar/cureu.in/system/core/Common.php on line 564
+[16-Sep-2020 10:02:00 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/avinstar/cureu.in/system/database/DB_result.php on line 261
+[16-Sep-2020 10:02:00 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/avinstar/cureu.in/system/core/Exceptions.php on line 1
+[16-Sep-2020 10:05:28 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/avinstar/cureu.in/system/database/DB_result.php on line 261
+[16-Sep-2020 10:05:28 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/avinstar/cureu.in/system/core/Exceptions.php on line 1
+[16-Sep-2020 10:08:11 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/avinstar/cureu.in/system/database/drivers/mysqli/mysqli_result.php on line 229
+[16-Sep-2020 10:08:11 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/avinstar/cureu.in/system/core/Common.php on line 564
+[16-Sep-2020 10:13:12 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/avinstar/cureu.in/system/database/drivers/mysqli/mysqli_result.php on line 229
+[16-Sep-2020 10:13:12 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/avinstar/cureu.in/system/core/Common.php on line 564
+[17-Sep-2020 05:47:39 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/avinstar/cureu.in/application/controllers/Admin.php on line 739
+[17-Sep-2020 05:47:57 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/avinstar/cureu.in/application/controllers/Admin.php on line 739
+[17-Sep-2020 05:48:05 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/avinstar/cureu.in/application/controllers/Admin.php on line 739
+[17-Sep-2020 05:48:07 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/avinstar/cureu.in/application/controllers/Admin.php on line 739
+[17-Sep-2020 05:48:29 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/avinstar/cureu.in/application/controllers/Admin.php on line 739
+[17-Sep-2020 05:49:47 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/avinstar/cureu.in/application/controllers/Admin.php on line 739
+[17-Sep-2020 05:50:09 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/avinstar/cureu.in/application/controllers/Admin.php on line 739
+[05-Oct-2020 11:46:13 UTC] PHP Fatal error:  Cannot redeclare Admin::hospital() in /home/avinstar/cureu.in/application/controllers/Admin.php on line 787
+[05-Oct-2020 11:46:55 UTC] PHP Fatal error:  Cannot redeclare Admin::hospital() in /home/avinstar/cureu.in/application/controllers/Admin.php on line 787
+[06-Oct-2020 07:49:44 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/avinstar/cureu.in/application/models/Admin_model.php on line 927
+[06-Oct-2020 09:23:33 UTC] PHP Fatal error:  Cannot redeclare Admin_model::get_city() in /home/avinstar/cureu.in/application/models/Admin_model.php on line 932
+[06-Oct-2020 19:53:24 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/avinstar/cureu.in/application/controllers/Admin.php on line 878
+[12-Oct-2020 15:27:45 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Welcome::view_hospital_profile() in /home/avinstar/cureu.in/application/controllers/Welcome.php on line 378
+[14-Oct-2020 02:52:19 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/avinstar/cureu.in/application/controllers/Welcome.php on line 347
+[14-Oct-2020 12:51:37 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/avinstar/cureu.in/application/models/Admin_model.php on line 894
+[15-Oct-2020 11:42:27 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/avinstar/cureu.in/application/views/front/view_hospital_profile.php on line 7
+[15-Oct-2020 11:53:37 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/avinstar/cureu.in/application/views/front/view_hospital_profile.php on line 7
+[17-Oct-2020 01:57:07 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/avinstar/cureu.in/system/libraries/Upload.php on line 669
+[25-Oct-2020 17:43:17 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/avinstar/cureu.in/application/views/doctor/profile.php on line 6
+[18-Nov-2020 12:35:15 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/avinstar/cureu.in/application/models/Admin_model.php on line 332
+[18-Nov-2020 12:35:20 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/avinstar/cureu.in/application/models/Admin_model.php on line 332
+[24-Nov-2020 15:39:20 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199245824 bytes) in /home/avinstar/cureu.in/system/core/Exceptions.php on line 271
+[24-Nov-2020 15:39:20 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199245824 bytes) in /home/avinstar/cureu.in/system/core/Exceptions.php on line 271
+[24-Nov-2020 15:40:13 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199245824 bytes) in /home/avinstar/cureu.in/system/core/Exceptions.php on line 271
+[24-Nov-2020 15:40:13 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199245824 bytes) in /home/avinstar/cureu.in/system/core/Exceptions.php on line 271
+[24-Nov-2020 15:41:32 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199245824 bytes) in /home/avinstar/cureu.in/system/core/Exceptions.php on line 271
+[24-Nov-2020 15:41:32 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199245824 bytes) in /home/avinstar/cureu.in/system/core/Exceptions.php on line 271
+[24-Nov-2020 15:41:49 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199245824 bytes) in /home/avinstar/cureu.in/system/core/Exceptions.php on line 271
+[24-Nov-2020 15:42:27 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199245824 bytes) in /home/avinstar/cureu.in/system/core/Exceptions.php on line 271
+[24-Nov-2020 15:49:28 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199245824 bytes) in /home/avinstar/cureu.in/system/core/Exceptions.php on line 271
+[24-Nov-2020 16:02:18 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199245824 bytes) in /home/avinstar/cureu.in/system/core/Exceptions.php on line 271
+[24-Nov-2020 16:23:10 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/avinstar/cureu.in/application/views/doctor/profile.php on line 14
+[26-Nov-2020 17:08:34 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/avinstar/cureu.in/application/views/admin/edit_hospital.php on line 181
+[28-Nov-2020 12:06:47 Asia/Kolkata] PHP Warning:  Unterminated comment starting line 10 in /home/avinstar/cureu.in/application/views/hospital/profile.php on line 10
+[02-Dec-2020 14:07:23 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Hospital::appointment() in /home/avinstar/cureu.in/application/controllers/Hospital.php on line 127
+[02-Dec-2020 14:07:25 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Hospital::appointment() in /home/avinstar/cureu.in/application/controllers/Hospital.php on line 127
+[13-Jan-2021 13:10:38 Asia/Kolkata] PHP Warning:  Unterminated comment starting line 199 in /home/avinstar/cureu.in/application/views/front/dashboard.php on line 199
+[16-Jan-2021 13:56:18 Asia/Kolkata] PHP Warning:  Unterminated comment starting line 39 in /home/avinstar/cureu.in/application/models/Hospital_model.php on line 39
+[16-Jan-2021 13:57:28 Asia/Kolkata] PHP Warning:  Unterminated comment starting line 39 in /home/avinstar/cureu.in/application/models/Hospital_model.php on line 39
+[02-Feb-2021 12:08:23 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/avinstar/cureu.in/application/controllers/Hospital.php on line 188
+[02-Feb-2021 12:51:58 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/avinstar/cureu.in/application/controllers/Hospital.php on line 163
+[02-Feb-2021 12:53:01 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/avinstar/cureu.in/application/controllers/Hospital.php on line 188
+[02-Feb-2021 12:53:16 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/avinstar/cureu.in/application/controllers/Hospital.php on line 188
+[03-Feb-2021 15:44:13 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/avinstar/cureu.in/application/controllers/Welcome.php on line 432
+[05-Mar-2021 06:39:41 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[13-Mar-2021 17:59:36 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/avinstar/cureu.in/application/views/front/view_ehr_hospital.php on line 74

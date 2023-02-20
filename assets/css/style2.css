@@ -1,0 +1,35 @@
+img.img-fluid.small {
+    width: 62%;
+    height: auto;
+}
+img.img-fluid.small2 {
+    width: 55%;
+    height: 55px;
+    position: relative;
+    left: 60%;
+    bottom: 50%;
+}
+.header-navbar-rht li a.header-login {
+    border: 2px solid #007ca3!important;
+    border-radius: 4px;
+    padding: 10px 15px !important;
+    text-align: center;
+    font-size: 15px;
+    color: #077da1!important; 
+    text-transform: uppercase;  
+    font-weight: 500;
+}
+.header-navbar-rht li a.header-login:hover {
+    border: 2px solid #007ca3!important;
+    border-radius: 4px;
+    padding: 10px 15px !important;
+    text-align: center;
+    font-size: 15px;
+    color: #ffffff!important;
+    text-transform: uppercase;
+    font-weight: 500;
+    background: #4294ae;
+}
+.btn-primary {
+    background-color: #1a7d9d!important;
+}
